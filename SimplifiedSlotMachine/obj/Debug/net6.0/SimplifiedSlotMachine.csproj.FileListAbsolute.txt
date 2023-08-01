@@ -1,0 +1,15 @@
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\bin\Debug\net6.0\SimplifiedSlotMachine.exe
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\bin\Debug\net6.0\SimplifiedSlotMachine.deps.json
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\bin\Debug\net6.0\SimplifiedSlotMachine.runtimeconfig.json
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\bin\Debug\net6.0\SimplifiedSlotMachine.dll
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\bin\Debug\net6.0\SimplifiedSlotMachine.pdb
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.csproj.AssemblyReference.cache
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.AssemblyInfoInputs.cache
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.AssemblyInfo.cs
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.dll
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\refint\SimplifiedSlotMachine.dll
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.pdb
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\SimplifiedSlotMachine.genruntimeconfig.cache
+C:\Users\janlu\source\repos\SimplifiedSlotMachine\SimplifiedSlotMachine\obj\Debug\net6.0\ref\SimplifiedSlotMachine.dll
