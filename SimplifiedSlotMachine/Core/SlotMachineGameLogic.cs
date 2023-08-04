@@ -26,27 +26,6 @@ namespace SimplifiedSlotMachine.Core
             return board;
         }
 
-        private char GetRandomSymbol()
-        {
-            int num = random.Next(1, 101);
-            if (num <= 45)
-            {
-                return 'A';
-            }
-            else if (num <= 80)
-            {
-                return 'B';
-            }
-            else if (num <= 95)
-            {
-                return 'P';
-            }
-            else
-            {
-                return '*';
-            }
-        }
-
         public int CalculateWinAmount(char[][] board, int stakeAmount)
         {
             int winAmount = 0;
@@ -113,6 +92,27 @@ namespace SimplifiedSlotMachine.Core
         private char[] RemoveWildCard(char[] line)
         {
             return line.Where(c => c != '*').ToArray();
+        }
+
+        private char GetRandomSymbol()
+        {
+            int num = random.Next(1, 101);
+            if (num <= 45)
+            {
+                return 'A';
+            }
+            else if (num <= 80)
+            {
+                return 'B';
+            }
+            else if (num <= 95)
+            {
+                return 'P';
+            }
+            else
+            {
+                return '*';
+            }
         }
 
         private static double GetSymbolCoefficient(char symbol)
