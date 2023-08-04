@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janlu\\source\\repos\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine.csproj",
+      "projectUniqueName": "C:\\Users\\janlu\\OneDrive\\Desktop\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine.csproj",
       "projectName": "SimplifiedSlotMachine",
-      "projectPath": "C:\\Users\\janlu\\source\\repos\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine.csproj",
+      "projectPath": "C:\\Users\\janlu\\OneDrive\\Desktop\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine.csproj",
       "packagesPath": "C:\\Users\\janlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janlu\\source\\repos\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\obj\\",
+      "outputPath": "C:\\Users\\janlu\\OneDrive\\Desktop\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\SimplifiedSlotMachine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
